@@ -1,6 +1,6 @@
 cask "spotbar" do
   version "0.4.1"
-  sha256 "c9ec7e3bef069d0c0f1d21d1cb6f6201b81453e2f36a3b35d4d256fe1938b7e0"
+  sha256 "f375e3c326ce7ffbac887a38f847122a256e0b92a8753ad7c621776aee714fcc"
 
   url "https://github.com/alirezas/spotbar/releases/download/v#{version}/SpotBar-#{version}.zip"
   name "SpotBar"
